@@ -1,0 +1,33 @@
+C:\Users\Tanatos\Desktop\project\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.csprojResolveAssemblyReference.cache
+C:\Users\Tanatos\Desktop\project\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.exe
+C:\Users\Tanatos\Desktop\project\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.pdb
+C:\Users\Tanatos\Desktop\project\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.exe
+C:\Users\Tanatos\Desktop\project\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.pdb
+C:\Users\Tanatos\YandexDisk\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.exe
+C:\Users\Tanatos\YandexDisk\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.pdb
+D:\Documents\Visual Studio 2017\Projects\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.exe
+D:\Documents\Visual Studio 2017\Projects\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.pdb
+D:\Documents\Visual Studio 2017\Projects\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.exe
+D:\Documents\Visual Studio 2017\Projects\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.pdb
+C:\Users\Tanatos\Desktop\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.exe
+C:\Users\Tanatos\Desktop\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.pdb
+C:\Users\Tanatos\Desktop\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.csprojResolveAssemblyReference.cache
+C:\Users\Tanatos\Desktop\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.exe
+C:\Users\Tanatos\Desktop\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.pdb
+C:\Users\Tanatos\Desktop\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.exe.CodeAnalysisLog.xml
+C:\Users\Tanatos\Desktop\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.exe.lastcodeanalysissucceeded
+C:\Users\Ivbykov\Desktop\ad\1\1\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.exe
+C:\Users\Ivbykov\Desktop\ad\1\1\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.pdb
+C:\Users\Ivbykov\Desktop\ad\1\1\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.csprojResolveAssemblyReference.cache
+C:\Users\Ivbykov\Desktop\ad\1\1\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.csproj.CoreCompileInputs.cache
+C:\Users\Ivbykov\Desktop\ad\1\1\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.exe
+C:\Users\Ivbykov\Desktop\ad\1\1\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.pdb
+C:\Users\Student\Desktop\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.exe
+C:\Users\Student\Desktop\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.pdb
+C:\Users\Student\Desktop\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.exe
+C:\Users\Student\Desktop\SiMarket\ConsoleApplication6\bin\Debug\SiMarket.pdb
+C:\Users\Student\Desktop\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.csprojResolveAssemblyReference.cache
+F:\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.exe
+F:\SiMarket\ConsoleApplication6\obj\Debug\SiMarket.pdb

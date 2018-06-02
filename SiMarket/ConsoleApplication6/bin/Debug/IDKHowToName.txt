@@ -1,0 +1,2 @@
+Gasoline, Jewelry, Mining, Electronics, Clothes, Foodstuff, Automobiles, Military, Space, Science, Utility, Healthcare, Financial, Telecommunications, Transportation
+NL, BRA, NOR, ITA, SWI, JP, AUS, ZAF, CAN, KOR, TUR, JAP, PL, ESP, RUS, FR, USA, GER, ENG, CHN, IND, DNK, SWE, ARG, MEX, UA, UAE

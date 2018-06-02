@@ -1,0 +1,70 @@
+D:\temp\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\temp\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\temp\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+D:\temp\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\temp\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Ivbykov\Desktop\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Ivbykov\Desktop\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Ivbykov\Desktop\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+C:\Users\Ivbykov\Desktop\BisSim\ConsoleApplication6\obj\Debug\BisSim.csproj.CoreCompileInputs.cache
+C:\Users\Ivbykov\Desktop\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Ivbykov\Desktop\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\obj\Debug\BisSim.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Student\Desktop\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Student\Desktop\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Student\Desktop\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Student\Desktop\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Tanatos\Desktop\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Tanatos\Desktop\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Tanatos\Desktop\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Tanatos\Desktop\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Tanatos\Desktop\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+F:\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+F:\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+F:\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+F:\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+F:\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\obj\Debug\BisSim.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Documents\Visual Studio 2017\Projects\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\Downloads\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Downloads\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\Downloads\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+D:\Downloads\BisSim (4)\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Downloads\BisSim (4)\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+F:\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+F:\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+F:\BisSim (4)\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+F:\BisSim (4)\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+F:\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\оооо\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Student\Desktop\оооо\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Student\Desktop\оооо\BisSim (4)\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Student\Desktop\оооо\BisSim (4)\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Student\Desktop\оооо\BisSim (4)\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+D:\Архив\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Архив\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\Архив\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Архив\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Архив\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+D:\_\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\_\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\_\BisSim\ConsoleApplication6\obj\Debug\BisSim.csprojResolveAssemblyReference.cache
+D:\_\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\_\BisSim\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Архив\Копия флешки\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Архив\Копия флешки\BisSim\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
